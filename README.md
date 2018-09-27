@@ -1,6 +1,7 @@
 # Пограничное расстройство личности
 
+Видео
+------
 
-
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=TZDluLOQAMc\",\"type\":\"video\",\"title\":\"Расщеплённая душа. Психоанализ пограничной личности\",\"description\":\"Трудные клиенты или когда интерпретации оказывается недостаточно. Психический конфликт или травма развития?  Роль среды в формировании пограничных нарушений. Самость пограничной личности. Специфика переноса и контрпереноса. Значение терапевтических отношений в анализе пограничной личности.       \\nБакалдин Сергей Витальевич - кан. психол. наук., специалист и тренинговый аналитик Европейской Конфедерации Психоаналитической Психотерапии, руководитель Центра Современного психоанализа и психологического консультирования \\\"Гермес\\\" \(psygermes.ru\).\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/TZDluLOQAMc/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/TZDluLOQAMc?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/TZDluLOQAMc?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TZDluLOQAMc?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
